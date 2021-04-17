@@ -10,7 +10,7 @@ class Index extends Common
 
     public function fenZhi()
     {
-        return 'Git的第一次新建分支Transition_first测试';
+        return 'Git的第一次新建分支Transition_first测试123456';
     }
 
 }
