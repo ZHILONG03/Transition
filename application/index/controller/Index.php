@@ -8,4 +8,9 @@ class Index extends Common
         return 'Git的第一次测试';
     }
 
+    public function fenZhi()
+    {
+        return 'Git的第一次新建分支Transition_first测试';
+    }
+
 }
