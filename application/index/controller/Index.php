@@ -10,7 +10,9 @@ class Index extends Common
 
     public function fenZhi()
     {
-        return 'BBBBBBBGit的第一次新建分支Transition_first测试987654321123456qwerty';
+
+        return 'AAAAAABBBBBBBGit的第一次新建分支Transition_first测试987654321123456qwerty';
+
 
     }
 
