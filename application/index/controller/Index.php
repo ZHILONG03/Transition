@@ -14,4 +14,10 @@ class Index extends Common
 
     }
 
+    public function join()
+    {
+        return '我是WUHUA123456';
+
+    }
+
 }
